@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RMM Tool Search</title>
+    <style>
+        body {
+            background-color: #181818;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #222;
+            padding: 1rem 2rem;
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #a0d2eb;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            padding: 2rem;
+        }
+        .search-bar {
+            width: 100%;
+            max-width: 600px;
+            padding: 12px;
+            border: none;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            font-size: 1rem;
+            background-color: #2a2a2a;
+            color: white;
+            box-shadow: 0 0 8px rgba(160, 210, 235, 0.2);
+        }
+        .result {
+            width: 100%;
+            max-width: 600px;
+            background-color: #20232a;
+            padding: 1rem;
+            border-radius: 10px;
+            margin-top: 1rem;
+            box-shadow: 0 0 10px rgba(160, 210, 235, 0.3);
+        }
+        .name {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+            color: #87c6bd;
+        }
+        .description {
+            font-style: italic;
+            margin-bottom: 0.5rem;
+            color: #cccccc;
+        }
+        .urls {
+            margin-top: 0.5rem;
+        }
+        .url-item {
+            background-color: #2d2d3a;
+            padding: 6px 10px;
+            border-radius: 5px;
+            margin: 4px 0;
+            word-break: break-word;
+            color: #c4f0ff;
+        }
+    </style>
+</head>
+<body>
+    <header>RMM Tool Search</header>
+    <div class="container">
+        <input type="text" id="search" class="search-bar" placeholder="Search by URL..." oninput="searchData()" />
+        <div id="result" class="result" style="display:none"></div>
+    </div>
+
+    <script>
+        let data = {};
+
+        fetch('tools.json')
+            .then(response => response.json())
+            .then(json => {
+                data = json;
+            })
+            .catch(err => {
+                console.error('Failed to load JSON:', err);
+            });
+
+        function searchData() {
+            const query = document.getElementById('search').value.trim().toLowerCase();
+            const resultDiv = document.getElementById('result');
+            resultDiv.style.display = 'none';
+            resultDiv.innerHTML = '';
+
+            if (!query || Object.keys(data).length === 0) return;
+
+            for (const key in data) {
+                const urls = data[key].URL.map(u => u.toLowerCase());
+                if (urls.some(url => url.includes(query))) {
+                    resultDiv.style.display = 'block';
+                    resultDiv.innerHTML = [
+                        '<div class="name">' + key + '</div>',
+                        '<div class="description">' + data[key].Description + '</div>',
+                        '<div class="urls">',
+                        '<div style="font-weight:bold; margin-bottom: 0.5rem; color: #87c6bd;">Domains</div>',
+                        data[key].URL.map(u => '<div class="url-item">' + u + '</div>').join(''),
+                        '</div>'
+                    ].join('');
+                    return;
+                }
+            }
+
+            resultDiv.style.display = 'block';
+            resultDiv.innerHTML = '<div class="description">No match found.</div>';
+        }
+    </script>
+</body>
+</html>
