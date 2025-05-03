@@ -1,0 +1,1383 @@
+{
+    "247ithelp.com (ConnectWise)": {
+        "Description": "ConnectWise RMM is a unified remote monitoring and management solution that enables IT professionals to monitor client endpoints in real-time, automate patching, and manage SaaS workloads and networks. It integrates with ConnectWise ScreenConnect and offers expert services like NOC and Help Desk support.",
+        "URL": [
+            "*.247ithelp.com"
+        ]
+    },
+    "Absolute (Computrace)": {
+        "Description": "Absolute Computrace is a persistent endpoint security and data risk management solution embedded in the firmware of devices. It allows organizations to remotely manage and secure endpoints, ensuring critical applications remain healthy and capable of self-healing.",
+        "URL": [
+            "*search.namequery.com",
+            "*server.absolute.com"
+        ]
+    },
+    "Acronis Cyber Protect (Remotix)": {
+        "Description": "Acronis Cyber Protect integrates data protection with cybersecurity, offering features like AI-powered RMM, vulnerability assessments, patch management, and secure remote access. It provides a unified console for managing and protecting endpoints and Microsoft 365 environments.",
+        "URL": [
+            "cloud.acronis.com",
+            "agents*-cloud.acronis.com",
+            "gw.remotix.com",
+            "connect.acronis.com"
+        ]
+    },
+    "Action1": {
+        "Description": "Action1 is a cloud-based RMM platform that simplifies IT management tasks such as endpoint monitoring, software deployment, patch management, and automation. It offers a user-friendly interface and is free for managing up to 100 endpoints.",
+        "URL": [
+            "*.action1.com",
+            "a1-backend-packages.s3.amazonaws.com"
+        ]
+    },
+    "Addigy": {
+        "Description": "Addigy is a cloud-based RMM and MDM solution designed specifically for Apple devices. It enables IT teams to manage macOS, iOS, iPadOS, and tvOS devices, offering features like real-time monitoring, automated remediation, and compliance enforcement.",
+        "URL": [
+            "prod.addigy.com",
+            "grtmprod.addigy.com",
+            "agents.addigy.com"
+        ]
+    },
+    "Adobe Connect": {
+        "Description": "Adobe Connect is a web conferencing platform that facilitates virtual meetings, webinars, and training sessions. It offers features like screen sharing, chat, and breakout rooms, enhancing remote collaboration and communication.",
+        "URL": [
+            "*.adobeconnect.com"
+        ]
+    },
+    "AeroAdmin": {
+        "Description": "AeroAdmin is a free remote desktop software that allows full remote control of computers, file transfers, and unattended access. It's portable, easy to use, and suitable for both personal and commercial use.",
+        "URL": [
+            "auth*.aeroadmin.com",
+            "aeroadmin.com"
+        ]
+    },
+    "AliWangWang-remote-control": {
+        "Description": "AliWangWang is an instant messaging software developed by Alibaba Group, primarily used for communication between buyers and sellers on Alibaba's platforms. It includes remote control features to assist with customer support.",
+        "URL": [
+            "wangwang.taobao.com"
+        ]
+    },
+    "Alpemix": {
+        "Description": "Alpemix is a remote desktop and support software that enables users to connect to remote computers for support and maintenance. It offers features like file transfer, chat, and session recording, suitable for both individual and corporate use.",
+        "URL": [
+            "*.alpemix.com",
+            "*.teknopars.com"
+        ]
+    },
+    "Ammyy Admin": {
+        "Description": "Ammyy Admin is a remote desktop sharing and PC remote control software that allows users to manage computers remotely without installation or configuration. It's used for remote assistance, administration, and education purposes.",
+        "URL": [
+            "ammyy.com",
+            "*ammyy.com",
+            "136.243.104.235",
+            "136.243.104.242",
+            "136.243.18.122"
+        ]
+    },
+    "Any Support": {
+        "Description": "Any Support is a remote support solution that enables IT professionals to connect to client machines for troubleshooting and system maintenance. It provides screen sharing, file transfer, and session logging capabilities.",
+        "URL": [
+            "*.anysupport.net"
+        ]
+    },
+    "AnyDesk": {
+        "Description": "AnyDesk is a remote desktop software that offers fast and reliable remote control of devices. It\u2019s known for its lightweight client, low latency, and secure sessions.",
+        "URL": [
+            "boot.net.anydesk.com",
+            "relay-[a-f0-9]{8}.net.anydesk.com:443",
+            "*.anydesk.com"
+        ]
+    },
+    "AnyViewer": {
+        "Description": "AnyViewer is a remote desktop application developed by AOMEI that offers remote access, file transfer, and multi-session capabilities. It's designed for IT support, remote work, and personal use with high-speed connectivity and strong encryption.",
+        "URL": [
+            "*.anyviewer.com",
+            "*.aomeisoftware.com"
+        ]
+    },
+    "Anyplace Control": {
+        "Description": "Anyplace Control is remote desktop software that offers secure access and control of remote computers. It supports LAN/internet access, file transfer, and desktop viewing.",
+        "URL": [
+            "anyplace-control.com"
+        ]
+    },
+    "Atera": {
+        "Description": "Atera is a cloud-based all-in-one RMM and PSA platform for MSPs. It features real-time monitoring, patching, ticketing, automation, and integrated remote access tools like Splashtop.",
+        "URL": [
+            "pubsub.atera.com",
+            "pubsub.pubnub.com",
+            "agentreporting.atera.com",
+            "getalphacontrol.com",
+            "app.atera.com",
+            "agenthb.atera.com",
+            "packagesstore.blob.core.windows.net",
+            "ps.pndsn.com",
+            "agent-api.atera.com",
+            "cacerts.thawte.com",
+            "agentreportingstore.blob.core.windows.net",
+            "atera-agent-heartbeat.servicebus.windows.net",
+            "ps.atera.com",
+            "atera.pubnubapi.com",
+            "appcdn.atera.com"
+        ]
+    },
+    "Auvik": {
+        "Description": "Auvik is a cloud-based network monitoring and management system that provides real-time visibility and control over network infrastructure. It automates network discovery, documentation, and performance monitoring.",
+        "URL": [
+            "*.my.auvik.com",
+            "*.auvik.com",
+            "auvik.com"
+        ]
+    },
+    "AweRay": {
+        "Description": "AweRay is a remote desktop solution providing secure remote access and control for personal and business users. It supports file transfer, multi-monitor access, and clipboard sharing.",
+        "URL": [
+            "asapi*.aweray.net",
+            "client-api.aweray.com"
+        ]
+    },
+    "Barracuda": {
+        "Description": "Barracuda RMM, formerly Managed Workplace, is a remote monitoring and management tool focused on security-centric IT management. It includes patch management, site security assessments, and integration with other Barracuda security products.",
+        "URL": [
+            "*.islonline.net",
+            "rmm.barracudamsp.com",
+            "barracudamsp.com"
+        ]
+    },
+    "Basecamp": {
+        "Description": "Basecamp is a project management and team collaboration tool that supports to-do lists, file sharing, time tracking, and messaging. It is not a traditional RMM tool but may be integrated into IT workflows for task and communication management.",
+        "URL": [
+            "basecamp.com"
+        ]
+    },
+    "BeAnyWhere": {
+        "Description": "BeAnyWhere is a remote access and support solution that provides IT administrators with secure connections to client endpoints. It offers remote control, file transfer, and unattended access capabilities.",
+        "URL": [
+            "beanywhere.en.uptodown.com/windows",
+            "beanywhere.com"
+        ]
+    },
+    "BeInSync": {
+        "Description": "BeInSync is a discontinued remote access and file synchronization tool that allowed users to securely share and sync files across devices and locations.",
+        "URL": [
+            "*.beinsync.net",
+            "*.beinsync.com"
+        ]
+    },
+    "BeamYourScreen": {
+        "Description": "BeamYourScreen was a screen sharing and web conferencing tool used for online meetings, remote support, and training. It has since been rebranded as Mikogo.",
+        "URL": [
+            "beamyourscreen.com",
+            "*.beamyourscreen.com"
+        ]
+    },
+    "BeyondTrust (Bomgar)": {
+        "Description": "BeyondTrust (formerly Bomgar) provides secure remote support solutions for enterprises and service desks. It includes session recording, privileged access management, and multi-platform support.",
+        "URL": [
+            "*.beyondtrustcloud.com",
+            "*.bomgarcloud.com",
+            "bomgarcloud.com"
+        ]
+    },
+    "Bluetrait": {
+        "Description": "Bluetrait is a remote administration tool used by MSPs for monitoring, support, and managing endpoints. It is designed for small and medium IT service providers.",
+        "URL": [
+            "bluetrait.io",
+            "*.bluetrait.io"
+        ]
+    },
+    "CentraStage (Now Datto)": {
+        "Description": "CentraStage was a cloud-based RMM platform for MSPs and IT teams. It was acquired and rebranded by Datto into Datto RMM.",
+        "URL": [
+            "*.rmm.datto.com",
+            "*cc.centrastage.net",
+            "datto.com/au/products/rmm/"
+        ]
+    },
+    "Centurion": {
+        "Description": "Centurion is a remote monitoring and management solution designed to provide secure remote access, diagnostics, and automated maintenance. It is typically used in industrial and secure environments.",
+        "URL": [
+            "centuriontech.com"
+        ]
+    },
+    "Chrome Remote Desktop": {
+        "Description": "Chrome Remote Desktop is a Google-developed remote access tool that allows users to remotely control another computer through the Chrome browser. It supports both attended and unattended sessions across different operating systems.",
+        "URL": [
+            "*remotedesktop.google.com",
+            "*remotedesktop-pa.googleapis.com",
+            "remotedesktop.google.com"
+        ]
+    },
+    "CloudFlare Tunnel": {
+        "Description": "Cloudflare Tunnel (formerly Argo Tunnel) enables secure exposure of local servers to the internet without opening firewall ports. Though not an RMM, it is used in remote access workflows securely.",
+        "URL": [
+            "cloudflare.com/products/tunnel/"
+        ]
+    },
+    "Comodo RMM": {
+        "Description": "Comodo RMM is a remote monitoring and management platform that integrates security tools with endpoint monitoring, patch management, and IT automation. It is part of the Comodo One suite.",
+        "URL": [
+            "*.itsm-us1.comodo.com",
+            "*mdmsupport.comodo.com",
+            "one.comodo.com"
+        ]
+    },
+    "ConnectWise Control": {
+        "Description": "ConnectWise Control (formerly ScreenConnect) is a powerful remote support tool for IT professionals. It provides remote desktop access, file transfer, session recording, and multi-user support.",
+        "URL": [
+            "live.screenconnect.com",
+            "control.connectwise.com"
+        ]
+    },
+    "Connectwise Automate (LabTech)": {
+        "Description": "ConnectWise Automate, previously known as LabTech, is a comprehensive RMM solution. It provides endpoint management, remote access, scripting, patching, and detailed reporting capabilities.",
+        "URL": [
+            "*.hostedrmm.com"
+        ]
+    },
+    "CrossLoop": {
+        "Description": "CrossLoop was a simple remote desktop software for screen sharing and remote control. It was popular for personal and small business use before being discontinued.",
+        "URL": [
+            "*.crossloop.com",
+            "crossloop.en.softonic.com"
+        ]
+    },
+    "CrossTec Remote Control": {
+        "Description": "CrossTec Remote Control provides secure remote access, support, and monitoring for enterprise environments. It supports multiple OS platforms and includes remote control, screen recording, and system management tools.",
+        "URL": [
+            "crosstecsoftware.com/remotecontrol"
+        ]
+    },
+    "DW Service": {
+        "Description": "DWService is a free, browser-based remote access service that allows users to control desktops remotely, transfer files, and run commands through a web interface.",
+        "URL": [
+            "*.dwservice.net"
+        ]
+    },
+    "DameWare": {
+        "Description": "DameWare is a suite of remote administration tools by SolarWinds used for managing and supporting systems. It includes Mini Remote Control, Remote Support, and integration with Active Directory.",
+        "URL": [
+            "dameware.com"
+        ]
+    },
+    "DeskDay": {
+        "Description": "DeskDay is a remote desktop tool designed to help IT teams and MSPs access, support, and manage endpoints across different locations securely and efficiently.",
+        "URL": [
+            "deskday.ai",
+            "app.deskday.ai"
+        ]
+    },
+    "DesktopNow": {
+        "Description": "DesktopNow is a remote desktop software that allows access to a PC from anywhere via the web. It supports file transfers, remote control, and secure access using browser-based interfaces.",
+        "URL": [
+            "*.nchuser.com"
+        ]
+    },
+    "Dev Tunnels (aka Visual Studio Dev Tunnel)": {
+        "Description": "Dev Tunnels by Visual Studio allows secure exposure of local development environments to the internet for testing and sharing. It's used by developers to expose localhost services for collaborative debugging or demos.",
+        "URL": [
+            "learn.microsoft.com/en-us/azure/developer/dev-tunnels/overview"
+        ]
+    },
+    "Distant Desktop": {
+        "Description": "Distant Desktop is a free remote desktop software for personal and business use. It enables remote access without configuration and supports file transfer and multi-monitor viewing.",
+        "URL": [
+            "*.distantdesktop.com",
+            "*signalserver.xyz"
+        ]
+    },
+    "Domotz": {
+        "Description": "Domotz is a network monitoring and management platform designed for MSPs and IT professionals. It provides remote access, alerts, SNMP monitoring, and IT asset inventory across network-connected devices.",
+        "URL": [
+            "*.domotz.co",
+            "domotz.com",
+            "*cell-1.domotz.com"
+        ]
+    },
+    "EMCO Remote Console": {
+        "Description": "EMCO Remote Console is a network management tool that allows administrators to run remote commands on multiple Windows systems simultaneously. It's useful for script automation and bulk operations.",
+        "URL": [
+            "emcosoftware.com"
+        ]
+    },
+    "ESET Remote Administrator": {
+        "Description": "ESET Remote Administrator is a centralized management console for ESET security products. It offers remote deployment, policy enforcement, and threat reporting for endpoints.",
+        "URL": [
+            "eset.com/me/business/remote-management/remote-administrator/"
+        ]
+    },
+    "Electric AI (Kaseya)": {
+        "Description": "Electric AI is a modern IT platform backed by Kaseya that automates endpoint management, onboarding, and support for small and medium businesses.",
+        "URL": [
+            "electric.ai"
+        ]
+    },
+    "Encapto": {
+        "Description": "Encapto provides cloud-managed WiFi solutions, often integrated with RMM platforms for managing and securing guest access, analytics, and branding.",
+        "URL": [
+            "encapto.com"
+        ]
+    },
+    "Ericom AccessNow": {
+        "Description": "Ericom AccessNow is a browser-based remote desktop client that allows users to access Windows desktops and applications from any HTML5-compatible browser. It provides secure access without the need for client-side installations.",
+        "URL": [
+            "ericom.com"
+        ]
+    },
+    "Ericom Connect": {
+        "Description": "Ericom Connect is a scalable and secure remote desktop and application access platform. It enables remote work by delivering desktops, apps, and data to any device with centralized management.",
+        "URL": [
+            "ericom.com"
+        ]
+    },
+    "FastViewer": {
+        "Description": "FastViewer is a remote access and online meeting tool that supports screen sharing, remote desktop, and collaboration. It is used for support sessions, webinars, and secure remote connections.",
+        "URL": [
+            "*.fastviewer.com",
+            "fastviewer.com"
+        ]
+    },
+    "FixMe.it": {
+        "Description": "FixMe.it is a cloud-based remote support solution that offers quick and easy remote access to client computers. It supports multi-session handling, unattended access, and file transfers.",
+        "URL": [
+            "*.fixme.it",
+            "*.techinline.net",
+            "fixme.it",
+            "*set.me",
+            "*setme.net"
+        ]
+    },
+    "FleetDeck.io": {
+        "Description": "FleetDeck.io is a modern remote support and RMM platform for IT teams and MSPs. It provides fast connections, diagnostics, and endpoint management in a cloud-native environment.",
+        "URL": [
+            "*.fleetdeck.io",
+            "cognito-idp.us-west-2.amazonaws.com",
+            "fleetdeck.io"
+        ]
+    },
+    "Fortra": {
+        "Description": "Fortra (formerly HelpSystems) offers a suite of cybersecurity and IT automation tools. Their RMM-compatible solutions include remote access, vulnerability management, and secure file transfer tools.",
+        "URL": [
+            "fortra.com"
+        ]
+    },
+    "GatherPlace-desktop sharing": {
+        "Description": "GatherPlace is a desktop sharing tool designed for online meetings and remote presentations. It allows hosts to share their screen with participants without requiring downloads.",
+        "URL": [
+            "*.gatherplace.com",
+            "*.gatherplace.net",
+            "gatherplace.com"
+        ]
+    },
+    "GetScreen": {
+        "Description": "GetScreen is a lightweight remote desktop tool designed for quick access and simplicity. It uses peer-to-peer connections for fast and secure remote support and control.",
+        "URL": [
+            "getscreen.me",
+            "GetScreen.me",
+            "*.getscreen.me"
+        ]
+    },
+    "GoToAssist": {
+        "Description": "GoToAssist, now part of GoTo Resolve, is a remote support software developed by GoTo (formerly LogMeIn). It enables live remote support, diagnostics, and unattended access for IT professionals.",
+        "URL": [
+            "goto.com",
+            "*.getgo.com",
+            "*.fastsupport.com",
+            "*.gotoassist.com",
+            "helpme.net",
+            "*.gotoassist.me",
+            "*.gotoassist.at",
+            "*.desktopstreaming.com"
+        ]
+    },
+    "GoToMyPC": {
+        "Description": "GoToMyPC is a remote access software that allows users to access their desktop computers from anywhere via the web. It's known for ease of use and secure access, ideal for remote workers.",
+        "URL": [
+            "*.GoToMyPC.com"
+        ]
+    },
+    "GotoHTTP": {
+        "Description": "GotoHTTP is a free remote control application designed for unattended access. It allows users to access and control remote devices via a web browser without router or firewall configuration.",
+        "URL": [
+            "*.gotohttp.com",
+            "gotohttp.com"
+        ]
+    },
+    "Goverlan": {
+        "Description": "Goverlan Reach is a remote IT support software for on-demand and unattended access. It supports background systems management, automation, software deployment, and Active Directory integration.",
+        "URL": [
+            "goverlan.com"
+        ]
+    },
+    "Guacamole": {
+        "Description": "Apache Guacamole is a clientless remote desktop gateway. It allows users to access desktops through a browser without needing plugins or client software, using RDP, VNC, or SSH.",
+        "URL": [
+            "guacamole.apache.org"
+        ]
+    },
+    "HelpBeam": {
+        "Description": "HelpBeam is a remote support software that allows technicians to view and control client computers. It is browser-based, requiring no installation, and supports quick session initiation.",
+        "URL": [
+            "helpbeam.software.informer.com"
+        ]
+    },
+    "HelpU": {
+        "Description": "HelpU is a remote support platform designed to connect technicians with end-users for troubleshooting. It includes chat, file transfers, and session control features.",
+        "URL": [
+            "helpu.co.kr",
+            "*.helpu.co.kr"
+        ]
+    },
+    "I'm InTouch": {
+        "Description": "I'm InTouch is a remote access software that enables remote control of desktops via the web. It supports email access, video monitoring, and remote file operations.",
+        "URL": [
+            "*.01com.com",
+            "01com.com/imintouch-remote-pc-desktop"
+        ]
+    },
+    "ISL Light": {
+        "Description": "ISL Light is a remote support software that provides secure remote desktop access and control. It is used by IT support and help desk teams and supports Windows, macOS, Linux, and mobile platforms.",
+        "URL": [
+            "islonline.com"
+        ]
+    },
+    "ISL Online": {
+        "Description": "ISL Online is a remote desktop software that allows support and access to computers and mobile devices across platforms. It offers unattended access, file sharing, and session recording, used by IT professionals and customer support teams.",
+        "URL": [
+            "*.islonline.com",
+            "*.islonline.net",
+            "*.islonline.com",
+            "*.islonline.net"
+        ]
+    },
+    "ITSupport247 (ConnectWise)": {
+        "Description": "ITSupport247 is a remote monitoring and IT support platform powered by ConnectWise. It includes 24/7 remote IT support, patching, monitoring, and management services for SMBs.",
+        "URL": [
+            "*.itsupport247.net",
+            "*.itsupport247.net",
+            "itsupport247.net"
+        ]
+    },
+    "Impero Connect": {
+        "Description": "Impero Connect (formerly Netop Remote Control) is a secure remote access tool for enterprise and industrial environments. It supports logging, auditing, and cross-platform control in secure infrastructures.",
+        "URL": [
+            "imperosoftware.com"
+        ]
+    },
+    "Instant Housecall": {
+        "Description": "Instant Housecall is remote desktop software for IT support professionals. It features unattended access, diagnostics tools, and branded interfaces for support teams.",
+        "URL": [
+            "*.instanthousecall.com",
+            "secure.instanthousecall.com",
+            "*.instanthousecall.net",
+            "instanthousecall.com",
+            "*.instanthousecall.com",
+            "*.instanthousecall.net",
+            "instanthousecall.com",
+            "secure.instanthousecall.com"
+        ]
+    },
+    "IntelliAdmin Remote Control": {
+        "Description": "IntelliAdmin Remote Control is a tool that provides fast and secure remote desktop access within local networks or over the internet. It\u2019s used for system management and help desk scenarios.",
+        "URL": [
+            "*.intelliadmin.com",
+            "intelliadmin.com/remote-control"
+        ]
+    },
+    "Iperius Remote": {
+        "Description": "Iperius Remote is a lightweight remote desktop software for technical support and remote work. It supports unattended access, multiple connections, chat, and file transfer with encryption for secure sessions.",
+        "URL": [
+            "*.iperiusremote.com",
+            "*.iperius.com",
+            "*.iperius-rs.com",
+            "iperiusremote.com"
+        ]
+    },
+    "Itarian": {
+        "Description": "Itarian is a cloud-based IT management platform offering RMM, remote access, ticketing, and automation. It is popular among MSPs for providing a wide range of IT management tools at low cost.",
+        "URL": [
+            "mdmsupport.comodo.com",
+            "*.itsm-us1.comodo.com",
+            "*.cmdm.comodo.com",
+            "remoteaccess.itarian.com",
+            "servicedesk.itarian.com"
+        ]
+    },
+    "Ivanti Remote Control": {
+        "Description": "Ivanti Remote Control provides secure access to user devices for support and troubleshooting. It is part of the Ivanti Unified Endpoint Manager platform, supporting policy enforcement and session monitoring.",
+        "URL": [
+            "*.ivanticloud.com"
+        ]
+    },
+    "Jump Cloud": {
+        "Description": "JumpCloud is a cloud directory platform offering secure identity, access, and device management. It enables IT teams to manage user authentication, endpoints, and access policies from a central platform.",
+        "URL": [
+            "*.api.jumpcloud.com",
+            "*.assist.jumpcloud.com"
+        ]
+    },
+    "Jump Desktop": {
+        "Description": "Jump Desktop is a remote desktop application supporting RDP and VNC protocols. It offers secure remote access with features like fluid remote sessions, encryption, and mobile client support.",
+        "URL": [
+            "*.jumpdesktop.com",
+            "jumpdesktop.com",
+            "jumpto.me",
+            "*.jumpto.me"
+        ]
+    },
+    "KHelpDesk": {
+        "Description": "KHelpDesk is a help desk and remote support software designed for IT support teams. It integrates ticketing, remote access, and reporting in one interface for streamlined support workflows.",
+        "URL": [
+            "*.khelpdesk.com.br"
+        ]
+    },
+    "Kabuto": {
+        "Description": "Kabuto is a lightweight RMM tool developed by RepairTech. It enables monitoring of system health, antivirus status, and alerts while integrating with tech support workflows.",
+        "URL": [
+            "*.kabuto.io",
+            "repairtechsolutions.com/kabuto/"
+        ]
+    },
+    "Kaseya (VSA)": {
+        "Description": "Kaseya VSA is an RMM and endpoint management platform providing automation, monitoring, patching, and security tools. It is designed to support large-scale IT operations and MSPs.",
+        "URL": [
+            "deploy01.kaseya.com",
+            "*managedsupport.kaseya.net",
+            "*.kaseya.net",
+            "kaseya.com"
+        ]
+    },
+    "KickIdler": {
+        "Description": "KickIdler is an employee monitoring and remote access software. It provides real-time screen viewing, activity reports, and remote control functionality.",
+        "URL": [
+            "kickidler.com",
+            "my.kickidler.com"
+        ]
+    },
+    "LANDesk": {
+        "Description": "LANDesk (now part of Ivanti) was a systems management platform offering software deployment, asset management, patching, and remote support for enterprise networks.",
+        "URL": [
+            "*.ivanticloud.com",
+            "*.ivanti.com",
+            "ivanti.com"
+        ]
+    },
+    "LabTech RMM (Now ConnectWise Automate)": {
+        "Description": "LabTech RMM, rebranded as ConnectWise Automate, is an advanced RMM solution. It enables automated patching, scripting, monitoring, and endpoint support for MSPs and internal IT teams.",
+        "URL": [
+            "connectwise.com"
+        ]
+    },
+    "Laplink Everywhere": {
+        "Description": "Laplink Everywhere was a remote access tool allowing users to connect to their PCs over the internet. It offered browser-based access to files, applications, and remote desktop sessions.",
+        "URL": [
+            "everywhere.laplink.com",
+            "le.laplink.com",
+            "atled.syspectr.com"
+        ]
+    },
+    "Laplink Gold": {
+        "Description": "Laplink Gold is a legacy remote access and file transfer tool offering peer-to-peer connections, synchronization, and direct modem support.",
+        "URL": [
+            "wen.laplink.com/product/laplink-gold"
+        ]
+    },
+    "Level": {
+        "Description": "Level is a modern RMM and remote support platform designed for IT teams. It features command execution, automation, real-time monitoring, and lightweight agents for fast endpoint management.",
+        "URL": [
+            "level.io",
+            "builds.level.io",
+            "agents.level.io",
+            "online.level.io",
+            "downloads.io"
+        ]
+    },
+    "Level.io": {
+        "Description": "Level.io is a cloud-native RMM platform built for IT professionals. It offers cross-platform support, terminal access, file explorer, patching, and powerful automation features.",
+        "URL": [
+            "level.io",
+            "*.level.io",
+            "level.io",
+            "*.level.io"
+        ]
+    },
+    "LiteManager": {
+        "Description": "LiteManager is a remote access software that allows for remote administration, desktop sharing, and file transfers. It supports secure connections, inventory collection, and remote task management.",
+        "URL": [
+            "*.litemanager.ru",
+            "*.litemanager.com",
+            "litemanager.com"
+        ]
+    },
+    "LogMeIn": {
+        "Description": "LogMeIn is a remote access solution for individuals and businesses that allows users to connect to their computers remotely. It supports file sharing, collaboration, and secure data access.",
+        "URL": [
+            "logmein-gateway.com",
+            "*.logmein.com",
+            "*.logmein.eu",
+            "logmeinrescue.com",
+            "*.logmeininc.com"
+        ]
+    },
+    "LogMeIn rescue": {
+        "Description": "LogMeIn Rescue is a secure remote support tool for helpdesks and MSPs. It includes unattended access, diagnostics, session reporting, and mobile support features.",
+        "URL": [
+            "*.logmeinrescue.com",
+            "*.logmeinrescue.eu",
+            "logmeinrescue.com"
+        ]
+    },
+    "MSP360": {
+        "Description": "MSP360 (formerly CloudBerry Lab) provides backup, disaster recovery, and RMM tools tailored to managed service providers. Its RMM suite includes patching, monitoring, scripting, and remote desktop capabilities.",
+        "URL": [
+            "*.cloudberrylab.com",
+            "*.msp360.com",
+            "*.mspbackups.com",
+            "msp360.com"
+        ]
+    },
+    "Manage Engine (Desktop Central)": {
+        "Description": "ManageEngine Desktop Central is a unified endpoint management solution. It supports patching, remote troubleshooting, software deployment, and device configuration for IT teams.",
+        "URL": [
+            "desktopcentral.manageengine.com",
+            "desktopcentral.manageengine.com.eu",
+            "desktopcentral.manageengine.cn",
+            "*.dms.zoho.com",
+            "*.dms.zoho.com.eu",
+            "*.-dms.zoho.com.cn"
+        ]
+    },
+    "ManageEngine RMM Central": {
+        "Description": "RMM Central by ManageEngine is a unified platform that combines RMM and PSA functionalities. It provides endpoint monitoring, automation, IT asset management, and service desk operations in a single dashboard.",
+        "URL": [
+            "manageengine.com/remote-monitoring-management/"
+        ]
+    },
+    "MeshCentral": {
+        "Description": "MeshCentral is an open-source remote management tool allowing admins to control systems over LAN or the internet. It supports multiple OS platforms, file transfers, and web-based access without third-party servers.",
+        "URL": [
+            "meshcentral.com"
+        ]
+    },
+    "Microsoft Quick Assist": {
+        "Description": "Microsoft Quick Assist is a built-in Windows tool that enables remote support by sharing control of a PC. It is used for troubleshooting and support by IT teams and individual users.",
+        "URL": [
+            "*.support.services.microsoft.com"
+        ]
+    },
+    "Mikogo": {
+        "Description": "Mikogo is a screen sharing and online meeting tool. It supports remote support, conferencing, and training sessions with browser-based access and session encryption.",
+        "URL": [
+            "*.real-time-collaboration.com",
+            "*.mikogo4.com",
+            "*.mikogo.com",
+            "mikogo.com"
+        ]
+    },
+    "MyGreenPC": {
+        "Description": "MyGreenPC is a remote desktop software for accessing personal or office computers from anywhere. It offers secure login, file access, and remote control via the cloud.",
+        "URL": [
+            "*mygreenpc.com"
+        ]
+    },
+    "MyIVO": {
+        "Description": "MyIVO is a remote IT support platform designed for managed service providers. It offers monitoring, alerts, remote access, and script-based automation for endpoint management.",
+        "URL": [
+            "myivo-server.software.informer.com"
+        ]
+    },
+    "N-ABLE Remote Access Software": {
+        "Description": "N-able Remote Access Software provides secure and fast remote desktop capabilities. It is integrated with N-central and RMM for seamless support and unattended access to endpoints.",
+        "URL": [
+            "n-able.com"
+        ]
+    },
+    "N-Able Advanced Monitoring Agent": {
+        "Description": "The N-able Advanced Monitoring Agent is a lightweight client used by N-able RMM platforms to collect performance data, trigger alerts, and enable remote management.",
+        "URL": [
+            "*remote.management",
+            "*.logicnow.com",
+            "*systemmonitor.us",
+            "*systemmonitor.eu.com",
+            "*system-monitor.com",
+            "systemmonitor.us.cdn.cloudflare.net",
+            "*cloudbackup.management",
+            "*systemmonitor.co.uk",
+            "*.n-able.com",
+            "*.beanywhere.com ",
+            "*.swi-tc.com",
+            "*.beanywhere.com ",
+            "systemmonitor.co.uk",
+            "*system-monitor.com",
+            "cloudbackup.management",
+            "*systemmonitor.co.uk",
+            "n-able.com",
+            "systemmonitor.us",
+            "*systemmonitor.eu.com",
+            "*.logicnow.com",
+            "*.swi-tc.com",
+            "*remote.management",
+            "systemmonitor.us.cdn.cloudflare.net",
+            "*cloudbackup.management",
+            "remote.management",
+            "logicnow.com",
+            "system-monitor.com",
+            "*systemmonitor.us",
+            "systemmonitor.eu.com",
+            "*.n-able.com"
+        ]
+    },
+    "NTR Remote": {
+        "Description": "NTR Remote is a cloud-based remote access and support solution offering unattended access, session reporting, and multi-platform compatibility.",
+        "URL": [
+            "*.ntrsupport.com"
+        ]
+    },
+    "NateOn-desktop sharing": {
+        "Description": "NateOn is a South Korean instant messaging service that includes desktop sharing and remote control features for collaboration and support.",
+        "URL": [
+            "*.nate.com"
+        ]
+    },
+    "Naverisk": {
+        "Description": "Naverisk is a unified RMM and service desk platform designed for MSPs and internal IT departments. It offers device monitoring, patch management, scripting, and ITIL-based ticketing.",
+        "URL": [
+            "naverisk.com"
+        ]
+    },
+    "NetSupport Manager": {
+        "Description": "NetSupport Manager is a comprehensive remote control and management solution designed to operate over LAN, WAN, or the internet. It offers secure, multi-platform support for Windows, Mac, Linux, and Chrome OS devices, enabling IT teams to remotely access and support critical systems, servers, and users worldwide.",
+        "URL": [
+            "*.netsupportmanager.com",
+            "netsupportmanager.com",
+            "geo.netsupportsoftware.com",
+            "netsupportmanager.com",
+            "*.netsupportmanager.com"
+        ]
+    },
+    "Netop Remote Control (Impero Connect)": {
+        "Description": "Netop Remote Control, now branded as Impero Connect, is an enterprise-grade remote access solution. It supports granular access controls, encryption, auditing, and multi-platform support.",
+        "URL": [
+            "*.connect.backdrop.cloud",
+            "*.netop.com"
+        ]
+    },
+    "Netop Remote Control (aka Impero Connect)": {
+        "Description": "Impero Connect (formerly Netop Remote Control) offers secure, audited remote control for enterprises, with emphasis on compliance and privileged access.",
+        "URL": [
+            "imperosoftware.com/impero-connect/"
+        ]
+    },
+    "Netreo": {
+        "Description": "Netreo is an IT operations management platform that provides network monitoring, infrastructure visibility, and automation. It is used by enterprises for proactive issue detection and performance tracking.",
+        "URL": [
+            "charon.netreo.net",
+            "activation.netreo.net",
+            "*.api.netreo.com",
+            "netreo.com"
+        ]
+    },
+    "Neturo": {
+        "Description": "Neturo provides endpoint visibility and secure remote access tools for IT management and monitoring. It includes device metrics, performance tracking, and alerts in real time.",
+        "URL": [
+            "neturo.uplus.co.kr"
+        ]
+    },
+    "Netviewer": {
+        "Description": "Netviewer was a web-based remote access and conferencing tool acquired by Citrix. It enabled screen sharing, presentations, and remote IT support.",
+        "URL": [
+            "download.cnet.com/Net-Viewer/3000-2370_4-10034828.html"
+        ]
+    },
+    "NinjaRMM": {
+        "Description": "NinjaRMM is a cloud-based remote monitoring and management platform designed for managed service providers (MSPs) and IT professionals. It provides tools for patch management, remote control, antivirus monitoring, and more.",
+        "URL": [
+            "*.ninjarmm.com",
+            "*.ninjaone.com",
+            "resources.ninjarmm.com",
+            "ninjaone.com"
+        ]
+    },
+    "NoMachine": {
+        "Description": "NoMachine is a high-performance remote desktop tool that provides fast, encrypted access to remote computers. It supports file transfer, audio/video streaming, and cross-platform compatibility.",
+        "URL": [
+            "nomachine.com"
+        ]
+    },
+    "OCS inventory": {
+        "Description": "OCS Inventory NG is an open-source asset management solution that collects and inventories hardware and software across networks. It integrates with GLPI and supports remote deployment of applications.",
+        "URL": [
+            "ocsinventory-ng.org"
+        ]
+    },
+    "OptiTune": {
+        "Description": "OptiTune is a remote management and monitoring solution for IT professionals and MSPs. It includes software deployment, remote scripting, patch management, and hardware/software inventory.",
+        "URL": [
+            "*.optitune.us",
+            "*.opti-tune.com"
+        ]
+    },
+    "PDQ Connect": {
+        "Description": "PDQ Connect is a modern device management platform from PDQ that allows IT admins to deploy software, scripts, and patches remotely to Windows systems without a domain.",
+        "URL": [
+            "app.pdq.com",
+            "cfcdn.pdq.com"
+        ]
+    },
+    "Pandora RC (eHorus)": {
+        "Description": "eHorus (Pandora RC) is a remote access tool developed by Pandora FMS for remote desktop management, telemetry monitoring, and access to networked devices.",
+        "URL": [
+            "portal.ehorus.com"
+        ]
+    },
+    "Panorama9": {
+        "Description": "Panorama9 is a cloud-based IT management platform that includes monitoring, patching, antivirus status, software inventory, and remote control tools for IT teams.",
+        "URL": [
+            "trusted.panorama9.com",
+            "changes.panorama9.com",
+            "panorama9.com"
+        ]
+    },
+    "Parallels Access": {
+        "Description": "Parallels Access is a remote desktop app optimized for mobile access to desktop applications. It features seamless touch control, file management, and remote access for macOS and Windows.",
+        "URL": [
+            "*.parallels.com",
+            "parallels.com/products/ras/try"
+        ]
+    },
+    "Pcnow": {
+        "Description": "Pcnow by Laplink was a remote access service allowing users to access their PCs via web or client app. It is now discontinued but was used for personal and business remote connectivity.",
+        "URL": [
+            "au.pcmag.com/utilities/21470/webex-pcnow"
+        ]
+    },
+    "Pcvisit": {
+        "Description": "Pcvisit is a remote support software designed for small businesses and IT service providers. It provides fast and secure desktop sharing, file transfers, and remote diagnostics.",
+        "URL": [
+            "*.pcvisit.de",
+            "pcvisit.de"
+        ]
+    },
+    "Pilixo": {
+        "Description": "Pilixo is a remote support and cloud management tool offering fast remote control, real-time monitoring, and device management via a web-based interface.",
+        "URL": [
+            "pilixo.com",
+            "download.pilixo.com",
+            "*.pilixo.com"
+        ]
+    },
+    "Pocket Controller": {
+        "Description": "Pocket Controller is a mobile device management tool that allows users to control Android devices from a PC for support, demos, and app testing.",
+        "URL": [
+            "soti.net/products/soti-pocket-controller"
+        ]
+    },
+    "Pocket Controller (Soti Xsight)": {
+        "Description": "Pocket Controller (now part of Soti Xsight) enables remote control of mobile devices for diagnostics, troubleshooting, and support. It is often used in enterprise mobile device management (MDM) solutions.",
+        "URL": [
+            "*soti.net"
+        ]
+    },
+    "Pulseway": {
+        "Description": "Pulseway is a mobile-first RMM platform that allows IT administrators to monitor and manage systems from any device. It offers automation, remote control, patching, and reporting tools, suitable for both MSPs and internal IT teams.",
+        "URL": [
+            "pulseway.com"
+        ]
+    },
+    "QQ IM-remote assistance": {
+        "Description": "QQ IM, a messaging service by Tencent, includes remote assistance features allowing users to control a friend\u2019s computer during a chat session. It is commonly used in China for personal and informal remote support.",
+        "URL": [
+            "*.mdt.qq.com",
+            "*.desktop.qq.com",
+            "upload_data.qq.com",
+            "qq-messenger.en.softonic.com"
+        ]
+    },
+    "Quest KACE Agent (formerly Dell KACE)": {
+        "Description": "Quest KACE Agent is used in endpoint management solutions from Quest Software. It supports asset inventory, patching, remote control, and scripting via the KACE Systems Management Appliance (SMA).",
+        "URL": [
+            "*.kace.com",
+            "www.quest.com/kace/"
+        ]
+    },
+    "Quick Assist": {
+        "Description": "Microsoft Quick Assist is a Windows built-in tool that allows one user to remotely assist another by sharing control of their PC. It's designed for basic troubleshooting and user support.",
+        "URL": [
+            "*.support.services.microsoft.com"
+        ]
+    },
+    "RAdmin": {
+        "Description": "RAdmin (Remote Administrator) is a secure remote control software for Windows systems. It supports fast screen sharing, file transfer, text/voice chat, and remote shutdown.",
+        "URL": [
+            "radmin.com"
+        ]
+    },
+    "RDPView": {
+        "Description": "RDPView is a tool for monitoring and managing RDP sessions on a terminal server. It allows admins to view active sessions and perform administrative tasks such as disconnecting or messaging users.",
+        "URL": [
+            "systemmanager.ru/dntu.en/rdp_view.htm"
+        ]
+    },
+    "RES Automation Manager": {
+        "Description": "RES Automation Manager (now Ivanti Automation) is a task automation platform used to simplify IT operations. It automates software deployments, user provisioning, and system configurations.",
+        "URL": [
+            "ivanti.com/"
+        ]
+    },
+    "RPort": {
+        "Description": "RPort is a self-hosted remote management tool offering secure access to devices behind firewalls. It provides remote shell access, command execution, and device tunneling.",
+        "URL": [
+            "rport.io"
+        ]
+    },
+    "Rapid7": {
+        "Description": "Rapid7 offers cybersecurity solutions including vulnerability management, SIEM, and incident detection. It integrates with RMM tools for automated remediation and threat response, especially via InsightConnect and InsightVM.",
+        "URL": [
+            "*.analytics.insight.rapid7.com",
+            "*.endpoint.ingress.rapid7.com"
+        ]
+    },
+    "Remobo": {
+        "Description": "Remobo was a VPN-like remote access tool for creating instant private networks. It enabled users to control remote systems and share files over encrypted connections.",
+        "URL": [
+            "remobo.en.softonic.com"
+        ]
+    },
+    "Remote Desktop Plus": {
+        "Description": "Remote Desktop Plus is a command-line wrapper for launching RDP sessions. It allows automation of logins and sessions with enhanced security and scripting capabilities.",
+        "URL": [
+            "donkz.nl"
+        ]
+    },
+    "Remote Manipulator System": {
+        "Description": "Remote Manipulator System (RMS) is a remote control and monitoring software used for administration and technical support. It offers screen sharing, file transfer, and secure communication channels.",
+        "URL": [
+            "*.internetid.ru",
+            "rmansys.ru"
+        ]
+    },
+    "Remote Utilities": {
+        "Description": "Remote Utilities is a secure and scalable remote desktop software for IT support. It allows full control, file transfer, and remote installation over LAN or the internet.",
+        "URL": [
+            "*.internetid.ru"
+        ]
+    },
+    "Remote.it": {
+        "Description": "Remote.it is a secure remote access tool that removes the need for public IP addresses or port forwarding. It supports secure access to SSH, RDP, and HTTP services without a VPN.",
+        "URL": [
+            "auth.api.remote.it",
+            "api.remote.it",
+            "remote.it"
+        ]
+    },
+    "RemoteCall": {
+        "Description": "RemoteCall is a remote support solution for desktop and mobile devices. It is widely used by customer support centers and features session control, chat, and screen sharing.",
+        "URL": [
+            "*.remotecall.com",
+            "*.startsupport.com",
+            "remotecall.com"
+        ]
+    },
+    "RemotePC": {
+        "Description": "RemotePC is a secure and scalable remote desktop solution designed for individuals, businesses, and IT teams. It offers always-on access, file transfer, and remote printing.",
+        "URL": [
+            "*.remotedesktop.com",
+            "*.remotepc.com",
+            "www.remotepc.com",
+            "remotepc.com"
+        ]
+    },
+    "RemotePass": {
+        "Description": "RemotePass is a secure remote access and identity verification platform. It enables teams to manage remote device access and verify identities before granting secure connections.",
+        "URL": [
+            "remotepass.com"
+        ]
+    },
+    "RemoteUtilities": {
+        "Description": "RemoteUtilities is a secure remote desktop software that supports attended and unattended access. It includes session logging, multiple connection modes, and strong authentication mechanisms.",
+        "URL": [
+            "remoteutilities.com"
+        ]
+    },
+    "RemoteView": {
+        "Description": "RemoteView is a remote monitoring and access solution by Rsupport. It allows users to control remote PCs and mobile devices via web browser, often used by IT support teams.",
+        "URL": [
+            "*content.rview.com",
+            "*.rview.com",
+            "content.rview.com"
+        ]
+    },
+    "Royal Server": {
+        "Description": "Royal Server is a central server component used in Royal TS to manage credentials, connections, and command tasks securely. It supports PowerShell, VNC, SSH, and Hyper-V integration for enterprise environments.",
+        "URL": [
+            "royalapps.com"
+        ]
+    },
+    "Royal TS": {
+        "Description": "Royal TS is a remote connections manager for system admins and IT professionals. It consolidates RDP, VNC, SSH, and web management into one interface with credential management.",
+        "URL": [
+            "royalapps.com"
+        ]
+    },
+    "RuDesktop": {
+        "Description": "RuDesktop is a remote desktop client primarily used for accessing Windows desktops from Android or Linux platforms via RDP.",
+        "URL": [
+            "*.rudesktop.ru",
+            "rudesktop.ru"
+        ]
+    },
+    "RunSmart": {
+        "Description": "RunSmart is an IT infrastructure monitoring platform offering real-time performance tracking and automation. It includes server monitoring, alerting, and remote management tools for system administrators.",
+        "URL": [
+            "runsmart.io"
+        ]
+    },
+    "RustDesk": {
+        "Description": "RustDesk is an open-source remote desktop software that allows users to self-host their servers for better privacy. It is a lightweight alternative to TeamViewer and AnyDesk with built-in encryption and fast performance.",
+        "URL": [
+            "rustdesk.com",
+            "web.rustdesk.com"
+        ]
+    },
+    "ScreenConnect": {
+        "Description": "ScreenConnect, now known as ConnectWise Control, is a remote support, access, and meeting solution. It allows technicians to remotely control devices, transfer files, and chat with users during support sessions.",
+        "URL": [
+            "control.connectwise.com",
+            "*.connectwise.com",
+            "*.screenconnect.com"
+        ]
+    },
+    "ScreenMeet": {
+        "Description": "ScreenMeet is a modern remote support and collaboration platform integrated with tools like Salesforce and Microsoft Teams. It enables support agents to launch sessions directly from their workflow.",
+        "URL": [
+            "*.screenmeet.com",
+            "*.scrn.mt"
+        ]
+    },
+    "Seetrol": {
+        "Description": "Seetrol is a remote monitoring and management platform offering visibility into system health and network performance. It includes automated alerts and remote access capabilities.",
+        "URL": [
+            "seetrol.co.kr"
+        ]
+    },
+    "Senso.cloud": {
+        "Description": "Senso.cloud is a cloud-based classroom and network management platform. It supports screen monitoring, remote control, safeguarding alerts, and device management for education and enterprise.",
+        "URL": [
+            "*.senso.cloud",
+            "senso.cloud"
+        ]
+    },
+    "ServerEye": {
+        "Description": "ServerEye is a cloud-based RMM solution for MSPs and system houses. It provides monitoring, alerting, remote control, and device management features in a modular dashboard.",
+        "URL": [
+            "*.server-eye.de"
+        ]
+    },
+    "ShowMyPC": {
+        "Description": "ShowMyPC is a remote access and meeting software solution for support and collaboration. It offers remote desktop sharing, unattended access, and file transfers.",
+        "URL": [
+            "*.showmypc.com",
+            "showmypc.com"
+        ]
+    },
+    "SimpleHelp": {
+        "Description": "SimpleHelp is a self-hosted remote support tool for IT professionals and MSPs. It supports remote access, diagnostics, monitoring, and reporting, with strong encryption and customization options.",
+        "URL": [
+            "simple-help.com",
+            "51.255.19.178",
+            "51.255.19.179",
+            "simple-help.com"
+        ]
+    },
+    "Site24x7": {
+        "Description": "Site24x7 by Zoho is an all-in-one cloud monitoring solution for websites, servers, networks, and applications. It also supports endpoint monitoring and synthetic testing for IT infrastructure.",
+        "URL": [
+            "plus*.site24x7.com",
+            "plus*.site24x7.eu",
+            "plus*.site24x7.in",
+            "plus*.site24x7.cn",
+            "plus*.site24x7.net.au",
+            "site24x7.com/msp"
+        ]
+    },
+    "SkyFex": {
+        "Description": "SkyFex is a web-based remote desktop service designed for tech support and remote assistance. It requires no installation and supports secure browser-based sessions.",
+        "URL": [
+            "skyfex.com",
+            "deskroll.com",
+            "*.deskroll.com"
+        ]
+    },
+    "Sophos-Remote Management System": {
+        "Description": "Sophos Remote Management System enables centralized management of Sophos endpoint products. It facilitates deployment, configuration, and monitoring of antivirus and firewall solutions.",
+        "URL": [
+            "*.sophos.com",
+            "*.sophosupd.com",
+            "*.sophosupd.net",
+            "community.sophos.com/on-premise-endpoint/f/sophos-endpoint-software/5725/sophos-remote-management-system"
+        ]
+    },
+    "Sorillus": {
+        "Description": "Sorillus offers remote desktop and screen sharing solutions designed for customer support and enterprise use. It provides secure, encrypted connections for troubleshooting sessions.",
+        "URL": [
+            "*.sorillus.com",
+            "sorillus.com"
+        ]
+    },
+    "Splashtop": {
+        "Description": "Splashtop is a remote desktop service that delivers high-performance remote access to computers and applications. It is widely used for remote work, IT support, and education due to its ease of use and affordability.",
+        "URL": [
+            "*.splashtop.com"
+        ]
+    },
+    "Splashtop (Beta)": {
+        "Description": "Splashtop (Beta) refers to early-release versions of the Splashtop remote access solution. Splashtop enables secure, high-performance remote desktop access for individuals and IT teams.",
+        "URL": [
+            "splashtop.com"
+        ]
+    },
+    "Splashtop Remote": {
+        "Description": "Splashtop Remote provides remote desktop functionality with fast screen sharing, file transfer, and multi-monitor support. It is used for IT support and remote work on multiple platforms.",
+        "URL": [
+            "splashtop.com",
+            "*.api.splashtop.com",
+            "*.relay.splashtop.com",
+            "*.api.splashtop.eu"
+        ]
+    },
+    "SpyAnywhere": {
+        "Description": "SpyAnywhere is a remote administration tool that allows users to monitor and control other computers discreetly. It features keystroke logging, screen viewing, and application control.",
+        "URL": [
+            "*.spytech-web.com",
+            "spyanywhere.com"
+        ]
+    },
+    "SunLogin": {
+        "Description": "SunLogin is a remote desktop tool developed by Chinese vendor SunTech. It offers remote access, file transfers, and secure connections for personal and enterprise use.",
+        "URL": [
+            "sunlogin.oray.com",
+            "client.oray.net"
+        ]
+    },
+    "SuperOps": {
+        "Description": "SuperOps.ai is a modern RMM and PSA platform built for MSPs. It offers ticketing, endpoint monitoring, automation, scripting, and patch management in a unified interface.",
+        "URL": [
+            "*.superopsbeta.com",
+            "superops.ai",
+            "serv.superopsalpha.com",
+            "*.superops.ai",
+            "*.superopsalpha.com"
+        ]
+    },
+    "Supremo": {
+        "Description": "Supremo is a lightweight and secure remote desktop software for Windows, macOS, Linux, and mobile. It features file transfer, unattended access, and AES 256-bit encryption, suitable for both individuals and businesses.",
+        "URL": [
+            "supremocontrol.com",
+            "*.supremocontrol.com",
+            "* .nanosystems.it"
+        ]
+    },
+    "Syncro": {
+        "Description": "Syncro is an all-in-one RMM and PSA platform for MSPs that combines ticketing, invoicing, automation, and remote monitoring. It integrates with third-party tools and provides built-in remote access features.",
+        "URL": [
+            "kabuto.io",
+            "*.syncromsp.com",
+            "*.syncroapi.com",
+            "syncromsp.com",
+            "servably.com",
+            "ld.aurelius.host",
+            "app.kabuto.io ",
+            "*.kabutoservices.com",
+            "repairshopr.com",
+            "kabutoservices.com",
+            "attachments.servably.com"
+        ]
+    },
+    "Syspectr": {
+        "Description": "O&O Syspectr is a cloud-based remote monitoring tool that provides real-time system information, alerts, and control. It supports remote command execution, software inventory, and health checks.",
+        "URL": [
+            "atled.syspectr.com",
+            "app.syspectr.com"
+        ]
+    },
+    "Tactical RMM": {
+        "Description": "Tactical RMM is an open-source, self-hosted RMM platform built on top of MeshCentral and Django. It provides real-time endpoint monitoring, scripting, automation, and patch management capabilities.",
+        "URL": [
+            "login.tailscale.com",
+            "login.tailscale.com",
+            "docs.tacticalrmm.com"
+        ]
+    },
+    "Tailscale": {
+        "Description": "Tailscale is a zero-config VPN that uses WireGuard for secure peer-to-peer connections. It is used for remote access and secure communication between devices across the internet.",
+        "URL": [
+            "*.tailscale.com",
+            "*.tailscale.io",
+            "tailscale.com"
+        ]
+    },
+    "Tanium": {
+        "Description": "Tanium is an endpoint management and security platform for large enterprises. It enables real-time visibility, control, and remediation across all endpoints from a single platform.",
+        "URL": [
+            "cloud.tanium.com",
+            "*.cloud.tanium.com"
+        ]
+    },
+    "Tanium Deploy": {
+        "Description": "Tanium Deploy is a module of the Tanium platform that facilitates software deployment and patch management at scale. It allows administrators to deliver software to endpoints with minimal delay and bandwidth usage.",
+        "URL": [
+            "tanium.com/products/tanium-deploy"
+        ]
+    },
+    "TeamViewer": {
+        "Description": "TeamViewer is a widely used remote access and support platform that offers cross-platform support, session encryption, file transfer, and unattended access. It is suitable for IT support, remote work, and online collaboration.",
+        "URL": [
+            "*.teamviewer.com",
+            "router15.teamviewer.com",
+            "client.teamviewer.com",
+            "taf.teamviewer.com"
+        ]
+    },
+    "TeleDesktop": {
+        "Description": "TeleDesktop is a remote control program that allows users to operate a computer from a distance using a client-host architecture. It supports key features like remote desktop viewing, file transfers, and session management, making it useful for remote support scenarios.",
+        "URL": [
+            "tele-desk.com"
+        ]
+    },
+    "TightVNC": {
+        "Description": "TightVNC is a free and open-source remote desktop application that uses the RFB protocol. It allows screen sharing and remote control of other computers over a network or internet.",
+        "URL": [
+            "tightvnc.com"
+        ]
+    },
+    "ToDesk": {
+        "Description": "ToDesk is a free remote desktop tool that provides stable and fast remote control access. It offers features like file transfer, screen sharing, and remote printing with support for various platforms.",
+        "URL": [
+            "todesk.com",
+            "*.todesk.com",
+            "*.todesk.com",
+            "todesktop.com"
+        ]
+    },
+    "TurboMeeting": {
+        "Description": "TurboMeeting is an all-in-one conferencing and remote support tool. It supports video meetings, desktop sharing, webinars, and remote access with self-hosting options.",
+        "URL": [
+            "acceo.com/turbomeeting/"
+        ]
+    },
+    "UltraVNC": {
+        "Description": "UltraVNC is an open-source remote desktop tool for Windows that allows users to control other computers over a network. It supports file transfers, chat, and encryption plugins for secure connections.",
+        "URL": [
+            "ultravnc.com"
+        ]
+    },
+    "UltraViewer": {
+        "Description": "UltraViewer is a remote desktop control software developed for remote support. It is commonly used for customer support and allows screen sharing, chat, and file transfer.",
+        "URL": [
+            "* .ultraviewer.net",
+            "ultraviewer.net"
+        ]
+    },
+    "VNC": {
+        "Description": "VNC (Virtual Network Computing) is a protocol and suite of software for remote desktop sharing. Popular variants include RealVNC and TightVNC, offering cross-platform control with encryption and remote administration features.",
+        "URL": [
+            "realvnc.com/en/connect/download/vnc"
+        ]
+    },
+    "Visual Studio Dev Tunnel": {
+        "Description": "Visual Studio Dev Tunnel allows developers to expose their local development environment to the internet securely. It is commonly used for testing APIs, webhooks, and collaborative development workflows.",
+        "URL": [
+            "global.rel.tunnels.api.visualstudio.com",
+            "*.rel.tunnels.api.visualstudio.com",
+            "*.devtunnels.ms"
+        ]
+    },
+    "WebRDP": {
+        "Description": "WebRDP is a web-based implementation of the Remote Desktop Protocol that enables RDP connections through a browser. It is often used to provide secure access to remote desktops without needing native RDP clients.",
+        "URL": [
+            "github.com/Mikej81/WebRDP"
+        ]
+    },
+    "Weezo": {
+        "Description": "Weezo was a remote desktop and file sharing tool that turned a user's computer into a secure web server. It enabled remote access to files, media, and desktop control through a browser interface.",
+        "URL": [
+            "*.weezo.me",
+            "weezo.net",
+            "*.weezo.net",
+            "weezo.en.softonic.com"
+        ]
+    },
+    "Xeox": {
+        "Description": "Xeox is a cloud-based RMM solution for managing Windows systems. It provides patch management, software deployment, remote control, and monitoring features through a modular architecture.",
+        "URL": [
+            "*.xeox.com",
+            "xeox.com"
+        ]
+    },
+    "Zabbix Agent": {
+        "Description": "Zabbix Agent is a component of the Zabbix monitoring system. It collects data such as CPU load, disk usage, and running processes to help administrators monitor infrastructure health.",
+        "URL": [
+            "zabbix.com"
+        ]
+    },
+    "ZeroTier": {
+        "Description": "ZeroTier is a secure, open-source virtual networking solution that creates encrypted peer-to-peer networks. It\u2019s used to enable remote access, network segmentation, and hybrid cloud infrastructure management.",
+        "URL": [
+            "zerotier.com",
+            "*.zerotier.com"
+        ]
+    },
+    "Zoho Assist": {
+        "Description": "Zoho Assist is a cloud-based remote support and remote access software for IT support teams. It supports unattended access, file transfers, multi-monitor navigation, and integration with Zoho products.",
+        "URL": [
+            "*.zoho.com.au",
+            "*.zohoassist.jp",
+            "assist.zoho.com",
+            "zoho.com/assist/",
+            "*.zoho.in",
+            "downloads.zohodl.com.cn",
+            "*.zohoassist.com",
+            "downloads.zohocdn.com",
+            "gateway.zohoassist.com",
+            "*.zohoassist.com.cn",
+            "*.zoho.com.cn",
+            "*.zoho.com",
+            "*.zoho.eu"
+        ]
+    },
+    "eHorus": {
+        "Description": "eHorus is a remote desktop tool developed by Pandora FMS. It offers cloud-based remote access, session management, and monitoring features tailored for MSPs and IT support teams.",
+        "URL": [
+            "ehorus.com"
+        ]
+    },
+    "ezHelp": {
+        "Description": "ezHelp is a remote support tool that enables technicians to assist users with desktop sharing, remote control, and live troubleshooting over the internet.",
+        "URL": [
+            "*.ezhelp.co.kr",
+            "ezhelp.co.kr"
+        ]
+    },
+    "mRemoteNG": {
+        "Description": "mRemoteNG is an open-source, multi-protocol remote connections manager that supports RDP, VNC, SSH, Telnet, and more. It is used for managing remote connections in a single, unified interface.",
+        "URL": [
+            "mremoteng.org"
+        ]
+    },
+    "ngrok": {
+        "Description": "ngrok is a tunneling tool that exposes local servers to the internet through secure tunnels. It is widely used for testing webhooks, APIs, and demos without modifying firewall rules.",
+        "URL": [
+            "ngrok.com"
+        ]
+    },
+    "rdp2tcp": {
+        "Description": "rdp2tcp is a tunneling tool that forwards TCP connections via RDP. It enables network pivoting and secure communication for penetration testing and remote administration.",
+        "URL": [
+            "github.com/V-E-O/rdp2tcp"
+        ]
+    },
+    "rdpwrap": {
+        "Description": "RDP Wrapper is a tool that enables multiple RDP sessions on Windows systems without modifying system files. It allows concurrent remote desktop access on Windows editions that don\u2019t support it natively.",
+        "URL": [
+            "github.com/stascorp/rdpwrap"
+        ]
+    }
+}
